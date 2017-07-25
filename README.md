@@ -1,11 +1,13 @@
 
-# Learning of React JS
+# Learning of React JS ( Last Date - 28/7/2017 )
 
 ### Steps to submit assigment 
 
-#### Step 1: clone github repositry on your local system
+#### Step 1: fork github repository
+     
+#### Step 1: clone the forked repository on your local system
      //From terminal 
-     git clone https://github.com/javascripters-community/thatjsdude.git
+     git clone https://github.com/your_username/thatjsdude.git
 
 #### Step 2: create new branch and submit your changes as a pull request. We will validate the code quality and provide you the comment accoringly.
       /** please use branch name like  "assignment_by_<<your full name>>",
@@ -43,7 +45,7 @@ Either build an app yourself like this one (ema-john) or build one of your own. 
 
 ## Contact us
 For any further help please whatsApp @ 
-`"Imran shaikh": +91 9923820706  or "Pratik Upacharya" : 7588948588`
+`"Imran shaikh": +91 9923820706  or "Pratik Upacharya" : +91 7588948588`
 
 
 `Email : pune.javascripters@gmail.com`
